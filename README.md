@@ -5,7 +5,7 @@ It assumes temperature generated form the random function to be in Celsius. Prog
 
 You need to run "npm install" from your folder.
 
-<h3> How to run program <h3>
+ How to run program 
 
 1) Go to your folder in command line.
 
